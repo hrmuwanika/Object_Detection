@@ -1,4 +1,4 @@
-# Object_Recognition
+# Object_Detection
 
 <br> <br>
        <span><b>- Python 3.5.1 (and later versions) </b>      <a href="https://www.python.org/downloads/" style="text-decoration: none;" >Download</a> (Support for Python 2.7 coming soon) </span> <br>
