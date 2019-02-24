@@ -1,2 +1,2 @@
 # Object_Recognition
-## Instructions on https://www.henrymuwanika.com/image-detection/
+### Instructions on https://www.henrymuwanika.com/image-detection/
