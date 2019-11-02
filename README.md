@@ -1,6 +1,8 @@
 # Object_Detection
 ## Requirements
 <br> 
+       <span><b>- Resnet50 Tensorflow model </b>      <a href="resnet50_coco_best_v2.0.1.h5
+" style="text-decoration: none;" >Download</a>  </span> <br>
        <span><b>- Python 3.7.3 (and later versions) </b>      <a href="https://www.python.org/downloads/" style="text-decoration: none;" >Download</a>  </span> <br>
        <span><b>- pip3 </b>              <a href="https://pypi.python.org/pypi/pip" style="text-decoration: none;" >Install</a></span> <br>
        <span><b>- Tensorflow 1.15.0 (and later versions)  </b>      <a href="https://www.tensorflow.org/install/install_windows" style="text-decoration: none;" > Install</a></span> or install via pip <pre> pip3 install tensorflow==1.15.0 </pre> 
