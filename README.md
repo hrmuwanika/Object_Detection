@@ -14,7 +14,6 @@
        <span><b>- h5py  </b>       <a href="http://docs.h5py.org/en/latest/build.html" style="text-decoration: none;" >Install</a></span> or install via pip <pre> pip3 install h5py </pre> 
        <span><b>- Keras 2.x  </b>     <a href="https://keras.io/#installation" style="text-decoration: none;" >Install</a></span> or install via pip <pre> pip3 install keras </pre> 
 
-<div id="installation"></div>
- <h3><b><u>Installation</u></b></h3> To install ImageAI, run the python installation instruction below in the command line: <br><br>
+ <b>ImageAI:</b> To install ImageAI, run the python installation instruction below in the command line: <br><br>
     <pre>pip3 install --upgrade imageai </pre> <br><br> <br>
     
