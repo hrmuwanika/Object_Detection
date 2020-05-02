@@ -16,5 +16,5 @@
 
 <div id="installation"></div>
  <h3><b><u>Installation</u></b></h3> To install ImageAI, run the python installation instruction below in the command line: <br><br>
-    <span>      <b>pip3 install imageai </b></span> <br><br> <br>
+    <span>pip3 install --upgrade imageai </span> <br><br> <br>
     
